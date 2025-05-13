@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\WORKSPACE\BLENTC\PCB\BLE-NTC.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=ble-ntc.ncd.r0-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=ble-ntc.ncd.r0-slotholes-plated.txt|DrillLayers=gtl,gbl

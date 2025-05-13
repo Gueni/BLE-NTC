@@ -1,0 +1,20 @@
+Output: BLE-NTC.GER.R0
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [BLE-NTC.PcbDoc]
+   Generated File[BLE-NTC.GER.R0.GTO]
+   Generated File[BLE-NTC.GER.R0.GTP]
+   Generated File[BLE-NTC.GER.R0.GTS]
+   Generated File[BLE-NTC.GER.R0.GTL]
+   Generated File[BLE-NTC.GER.R0.GBL]
+   Generated File[BLE-NTC.GER.R0.GBS]
+   Generated File[BLE-NTC.GER.R0.GBO]
+   Generated File[BLE-NTC.GER.R0.GKO]
+   Generated File[BLE-NTC.GER.R0.RUL]
+   Generated File[BLE-NTC.GER.R0.EXTREP]
+   Generated File[BLE-NTC.GER.R0.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 6:04:05 PM On 5/13/2025
