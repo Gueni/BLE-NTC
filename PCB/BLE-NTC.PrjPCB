@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\Library\Database_Libs1.DbLib
+DocumentPath=..\..\0000_libraries\Altium\DATABASE.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,6 +149,10 @@ Value=3
 [Parameter6]
 Name=CompanyName
 Value=Micro-Device Tunisie
+
+[SearchPath1]
+Path=..\..\0000_libraries\Altium\*.*
+IncludeSubFolders=0
 
 [Configuration1]
 Name=Sources
